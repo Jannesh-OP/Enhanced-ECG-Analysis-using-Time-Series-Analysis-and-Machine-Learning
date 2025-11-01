@@ -3,9 +3,9 @@ This project focuses on optimizing Machine Learning (ML) and Deep Learning (DL) 
 Using the MIT-BIH Arrhythmia Database, the study explores both feature-based and sequence-based approaches, improving accuracy, interpretability, and robustness of ECG classification systems.
 
 Technologies Used :
-Languages: Python.
-Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, XGBoost, Matplotlib, PyWavelets.
-Tools: Jupyter Notebook.
+1) Languages: Python.
+2) Libraries: NumPy, Pandas, Scikit-learn, TensorFlow, XGBoost, Matplotlib, PyWavelets.
+3) Tools: Jupyter Notebook.
 
 Objectives :
 1) Automate ECG signal classification for cardiovascular diagnosis.
